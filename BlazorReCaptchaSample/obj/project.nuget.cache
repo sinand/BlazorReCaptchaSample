@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GN6y7hvBOeoiTRsM6npwQoV5tMPQtGXqWMgKzAydh84hftJEyatouMgxlieq+gvEx90Xd2ylRU7LreTAlcv5Iw==",
+  "success": true,
+  "projectFilePath": "D:\\sinan\\projeler\\BlazorReCaptchaSample\\BlazorReCaptchaSample\\BlazorReCaptchaSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dogan\\.nuget\\packages\\blazorrecaptcha\\1.0.0\\blazorrecaptcha.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

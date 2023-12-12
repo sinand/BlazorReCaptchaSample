@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\sinan\\projeler\\BlazorReCaptchaSample\\BlazorReCaptchaSample\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorReCaptchaSample.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorReCaptchaSample.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\sinan\\projeler\\BlazorReCaptchaSample\\BlazorReCaptchaSample\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\sinan\\projeler\\BlazorReCaptchaSample\\BlazorReCaptchaSample\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\sinan\\projeler\\BlazorReCaptchaSample\\BlazorReCaptchaSample\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\sinan\\projeler\\BlazorReCaptchaSample\\BlazorReCaptchaSample\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorReCaptchaSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorReCaptchaSample.props",
+      "PackagePath": "build\\BlazorReCaptchaSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorReCaptchaSample.props",
+      "PackagePath": "buildMultiTargeting\\BlazorReCaptchaSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorReCaptchaSample.props",
+      "PackagePath": "buildTransitive\\BlazorReCaptchaSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

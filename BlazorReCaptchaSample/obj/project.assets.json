@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BlazorReCaptcha/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/BlazorReCaptcha.dll": {
+            "related": ".runtimeconfig.json"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/BlazorReCaptcha.dll": {
+            "related": ".runtimeconfig.json"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ],
+        "build": {
+          "buildTransitive/BlazorReCaptcha.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/BlazorReCaptcha.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorReCaptcha/1.0.0": {
+      "sha512": "3wvZCRY36yIqhGga/3J9/wLKucYmyuJ/hB0ThTcWDB87mdMRC6qgxV00ztGvAXLKq/9G3Cdf6AW0D2KXwum2rA==",
+      "type": "package",
+      "path": "blazorrecaptcha/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "Readme.md",
+        "blazorrecaptcha.1.0.0.nupkg.sha512",
+        "blazorrecaptcha.nuspec",
+        "build/BlazorReCaptcha.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/BlazorReCaptcha.props",
+        "buildTransitive/BlazorReCaptcha.props",
+        "lib/net8.0/BlazorReCaptcha.dll",
+        "lib/net8.0/BlazorReCaptcha.runtimeconfig.json",
+        "staticwebassets/BlazorReCaptcha.js",
+        "staticwebassets/ReCaptcha.css"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BlazorReCaptcha >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dogan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\sinan\\projeler\\BlazorReCaptchaSample\\BlazorReCaptchaSample\\BlazorReCaptchaSample.csproj",
+      "projectName": "BlazorReCaptchaSample",
+      "projectPath": "D:\\sinan\\projeler\\BlazorReCaptchaSample\\BlazorReCaptchaSample\\BlazorReCaptchaSample.csproj",
+      "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
+      "outputPath": "D:\\sinan\\projeler\\BlazorReCaptchaSample\\BlazorReCaptchaSample\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "BlazorReCaptcha": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
